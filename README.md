@@ -1,4 +1,7 @@
-## Hi there 👋
+## 24 years old, is student
+
+![mole](https://github.com/user-attachments/assets/701b266d-05a5-4c6e-96e0-6796a408d0be)
+
 
 <!--
 **Purestone/Purestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
