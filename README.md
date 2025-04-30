@@ -8,6 +8,10 @@ haven't found
 what I'm looking for
 ```
 
+```
+code block
+```
+
 <!--
 **Purestone/Purestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
