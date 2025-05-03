@@ -7,10 +7,9 @@ But I still
 haven't found
 what I'm looking for
 ```
-
-```
-code block
-```
+- [x] But I still
+- [x] Haven't found
+- [ ] What I'm looking for
 
 <!--
 **Purestone/Purestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
