@@ -1,7 +1,6 @@
 ## 24 years old, is student
 
 ![mole](https://github.com/user-attachments/assets/701b266d-05a5-4c6e-96e0-6796a408d0be)  
-[My student account](https://github.sydney.edu.au/puli0326)
 
 - [x] But I still
 - [x] Haven't found
